@@ -6,25 +6,25 @@ defaults:
     values:
       layout: default
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Your Name
+subtitle: Your Site Title
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
+  - text: About
+    link: /
     icon: ""
 
-  - text: Contact Me
-    link: /contact
+  - text: Fablab Safety
+    link: /docs/safety.md
     icon: ""
 
-  - text: My Resume
-    link: /resume
+  - text: Final Project
+    link: /docs/project.md
     icon: ""
 
 # Socialmedia Icons
