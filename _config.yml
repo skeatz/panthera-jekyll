@@ -9,25 +9,32 @@ defaults:
 title: Your Name
 subtitle: Your Site Title
 
+# theme: panthera-jekyll
+remote_theme: christianezeani/panthera-jekyll
+
 # Side Menu Links
 menu:
   - text: Home
-    link: /
+    link: /index.html
     icon: ""
 
   - text: About
-    link: /
+    link: /about.html
     icon: ""
 
   - text: Fablab Safety
-    link: /docs/safety.md
+    link: /docs/safety.html
     icon: ""
 
   - text: Final Project
-    link: /docs/project.md
+    link: /docs/project.html
     icon: ""
 
-# Socialmedia Icons
+  - text: Contact
+    link: /contact.html
+    icon: ""
+
+    # Socialmedia Icons
 social_icons:
   - name: linkedin
     link: https://www.linkedin.com/christianezeani
